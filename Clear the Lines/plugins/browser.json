@@ -1,0 +1,76 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-battery-status": {
+            "PACKAGE_NAME": "nz.isaacmercer.clearthelines"
+        },
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "nz.isaacmercer.clearthelines"
+        },
+        "cordova-plugin-media-capture": {
+            "PACKAGE_NAME": "nz.isaacmercer.clearthelines"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "nz.isaacmercer.clearthelines"
+        },
+        "cordova-plugin-contacts": {
+            "PACKAGE_NAME": "nz.isaacmercer.clearthelines"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "nz.isaacmercer.clearthelines"
+        },
+        "cordova-plugin-device-motion": {
+            "PACKAGE_NAME": "nz.isaacmercer.clearthelines"
+        },
+        "cordova-plugin-device-orientation": {
+            "PACKAGE_NAME": "nz.isaacmercer.clearthelines"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "nz.isaacmercer.clearthelines"
+        },
+        "cordova-plugin-file-transfer": {
+            "PACKAGE_NAME": "nz.isaacmercer.clearthelines"
+        },
+        "cordova-plugin-geolocation": {
+            "PACKAGE_NAME": "nz.isaacmercer.clearthelines"
+        },
+        "cordova-plugin-globalization": {
+            "PACKAGE_NAME": "nz.isaacmercer.clearthelines"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "nz.isaacmercer.clearthelines"
+        },
+        "cordova-plugin-media": {
+            "PACKAGE_NAME": "nz.isaacmercer.clearthelines"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "nz.isaacmercer.clearthelines"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "nz.isaacmercer.clearthelines"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "nz.isaacmercer.clearthelines"
+        },
+        "cordova-plugin-vibration": {
+            "PACKAGE_NAME": "nz.isaacmercer.clearthelines"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "nz.isaacmercer.clearthelines"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "nz.isaacmercer.clearthelines"
+        },
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "nz.isaacmercer.clearthelines"
+        }
+    }
+}
