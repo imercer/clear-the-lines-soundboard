@@ -7,6 +7,9 @@
         "files": {}
     },
     "installed_plugins": {
+        "cordova-plugin-crosswalk-webview": {
+            "PACKAGE_NAME": "nz.isaacmercer.clearthelines"
+        },
         "cordova-plugin-device": {
             "PACKAGE_NAME": "nz.isaacmercer.clearthelines"
         },
@@ -33,6 +36,9 @@
             "PACKAGE_NAME": "nz.isaacmercer.clearthelines"
         },
         "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "nz.isaacmercer.clearthelines"
+        },
+        "cordova-plugin-wkwebview-engine": {
             "PACKAGE_NAME": "nz.isaacmercer.clearthelines"
         }
     },
